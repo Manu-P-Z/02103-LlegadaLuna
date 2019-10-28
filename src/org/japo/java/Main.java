@@ -25,7 +25,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("El hombre llegó a la luna por primera vez en "+1969);
+        System.out.println("El hombre llegó a la luna por primera vez en " + 1969);
     }
-    
+
 }
